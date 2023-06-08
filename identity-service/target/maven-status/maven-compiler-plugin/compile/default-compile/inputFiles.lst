@@ -1,0 +1,10 @@
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\repository\UserCredentialRepository.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\config\CustomUserDetailsService.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\entity\UserCredential.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\controller\AuthController.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\service\JwtService.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\config\AuthConfig.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\service\AuthService.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\config\CustomUserDetails.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\IdentityServiceApplication.java
+C:\Learning\Spring Projects\spring microservices\jwt-apigateway-security\identity-service\src\main\java\com\javatechie\dto\AuthRequest.java
